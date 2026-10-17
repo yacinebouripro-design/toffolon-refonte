@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>TITLE (50 à 60 caractères)</title>
+<meta name="description" content="META (140 à 155 caractères)" />
+<link rel="canonical" href="https://toffolon-peinture-deco.fr/SLUG/" />
+<meta name="robots" content="index, follow, max-image-preview:large" />
+<meta name="theme-color" content="#08111b" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="fr_FR" />
+<meta property="og:site_name" content="Toffolon Peinture &amp; Décoration" />
+<meta property="og:title" content="..." />
+<meta property="og:description" content="..." />
+<meta property="og:url" content="https://toffolon-peinture-deco.fr/SLUG/" />
+<meta property="og:image" content="https://toffolon-website.s3.eu-west-3.amazonaws.com/..." />
+<link rel="icon" href="https://toffolon-website.s3.eu-west-3.amazonaws.com/Toffolon-Icon.png" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&amp;display=swap" />
+<link rel="preload" as="image" href="URL DE L'IMAGE HERO" />
+<link rel="stylesheet" href="/assets/site.css" />
+<!-- @schema-business -->
+<!-- /@schema-business -->
+<script type="application/ld+json">
+JSON-LD PROPRE À LA PAGE (@graph : WebPage, BreadcrumbList, Service ou FAQPage selon la page ; référencer l'entreprise par {"@id":"https://toffolon-peinture-deco.fr/#business"})
+</script>
+</head>
+<body>
+<!-- @header -->
+<!-- /@header -->
+<main id="contenu">
+  <section class="hero" style="--hero-img:url('URL IMAGE')">
+    <div class="wrap">
+      <nav class="crumbs" aria-label="Fil d'Ariane"><ol><li><a href="/">Accueil</a></li><li aria-current="page">...</li></ol></nav>
+      ... H1 unique, lead, CTA ...
+    </div>
+  </section>
+  ... sections ...
+  (le formulaire de devis s'insère partout où il faut avec les deux marqueurs ci-dessous, une seule fois par page ; ajouter data-preset sur rien : le préréglage se fait via l'attribut data-preset="Ravalement de façade" posé par le script sur le <form>, voir consigne)
+  <!-- @quote-form -->
+  <!-- /@quote-form -->
+</main>
+<!-- @footer -->
+<!-- /@footer -->
+</body>
+</html>

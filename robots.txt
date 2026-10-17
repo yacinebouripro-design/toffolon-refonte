@@ -1,2 +1,6 @@
+# Maquette : indexation bloquée. À la mise en ligne sur toffolon-peinture-deco.fr,
+# remplacer « Disallow: / » par « Allow: / ».
 User-agent: *
 Disallow: /
+
+Sitemap: https://toffolon-peinture-deco.fr/sitemap.xml

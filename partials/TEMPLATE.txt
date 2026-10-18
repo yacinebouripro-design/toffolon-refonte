@@ -7,7 +7,7 @@
 <meta name="description" content="META (140 à 155 caractères)" />
 <link rel="canonical" href="https://toffolon-peinture-deco.fr/SLUG/" />
 <meta name="robots" content="index, follow, max-image-preview:large" />
-<meta name="theme-color" content="#f3eee4" />
+<meta name="theme-color" content="#08111b" />
 <meta property="og:type" content="website" />
 <meta property="og:locale" content="fr_FR" />
 <meta property="og:site_name" content="Toffolon Peinture &amp; Décoration" />
@@ -18,7 +18,7 @@
 <link rel="icon" href="https://toffolon-website.s3.eu-west-3.amazonaws.com/Toffolon-Icon.png" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&amp;family=Public+Sans:wght@400;500;600&amp;display=swap" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&amp;display=swap" />
 <link rel="preload" as="image" href="URL DE L'IMAGE HERO" />
 <link rel="stylesheet" href="/assets/site.css" />
 <!-- @schema-business -->
